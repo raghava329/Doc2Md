@@ -1,0 +1,9 @@
+# Ignore build folders and Python cache
+__pycache__/
+build/
+dist/
+*.spec
+
+# Ignore your specific massive executable and installer files
+app.exe
+mysetup.exe
